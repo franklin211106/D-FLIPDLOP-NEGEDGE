@@ -1,6 +1,7 @@
+# NAME:FRANKLIN.F
+# REF.NO:24900641
 # D-FLIPDLOP-NEGEDGE
-
-**AIM:**
+# AIM:
 
 To implement  D flipflop using verilog and validating their functionality using their functional tables
 
@@ -30,15 +31,19 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 /* write all the steps invloved */
 
-**PROGRAM**
+# PROGRAM
+![Screenshot 2024-12-08 154118](https://github.com/user-attachments/assets/afd3c62e-296b-4bcb-8d9a-e09316a0cdf0)
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
-**RTL LOGIC FOR FLIPFLOPS**
+# RTL LOGIC FOR FLIPFLOPS
+![Screenshot 2024-12-08 154133](https://github.com/user-attachments/assets/50a06638-1813-4cb1-a083-23cda63db367)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+# TIMING DIGRAMS FOR FLIP FLOPS
+![Screenshot 2024-12-08 154217](https://github.com/user-attachments/assets/bf01011a-0f20-4ba3-bc30-f7a6dd63b23e)
 
 
-**RESULTS**
+# RESULTS
+To implement  D flipflop using verilog and validating their functionality using their functional tables
